@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
+	"id": "no-one",
+	"name": "No One",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
 	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"author": "ReiSi",
+	"authorUrl": "https://github.com/IOSure",
+	"fundingUrl": "https://github.com/IOSure/obsidian-no-one",
 	"isDesktopOnly": false
 }
